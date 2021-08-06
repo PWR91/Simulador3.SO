@@ -1,7 +1,7 @@
 # Simulador3.SO
 ## Sistemas Operativos
 
-Debe modificar el programa que crea el archivo .dat para crear también estructuras en memoria donde
+  Debe modificar el programa que crea el archivo .dat para crear también estructuras en memoria donde
 guardará en hashmaps el numero consecutivo de cada jugador según:
 - País
 - Estatura
